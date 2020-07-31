@@ -1,0 +1,96 @@
+### Site Settings ###
+title               : Vedanth Padigelwar
+description         : If you are not willing to risk the usual, you will have to settle for the ordinary. - Jim Rohn
+
+I am passionately curious Visionary interested in Machine Learning and photographer by heart with interests in sports, Lifestyle, and developing ideas into products. I love learning computer vision and ideate how it can help our society.
+
+I like staying organized and making everyone's lives better. It brings such genuine joy in developing ideas into real-value products. I love optimizing, analyzing, designing, and developing creative products with modern technologies like machine learning, Deep Learning, and Cloud computing with integration in IoT, cybersecurity, and multi-disciplinary fields.
+
+I also have a growing interest in extending my experience in computer vision and perceptual computing with pervasive computing.
+
+I enjoy meeting new people and hearing new perspectives. Reach out if you want to talk to me about emerging technology, creating new technology products, and cricket.
+
+I educate, refine, and drive myself to be a better person
+I stay calm when faced with adversity
+I focus on making High-quality decisions
+I constantly keep learning because I never settle.
+
+Explore your curiosity to the new world of Imaginations!!!!!!!!
+
+baseurl             : ""
+repository          : vedanthpadigelwar/vedanthpadigelwar.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**                           # For Documentation Only
+  - documentation/docs.md
+  - documentation/elements.html
+
+
+### Author Info ###
+author:
+  name              : Vedanth padigelwar
+  image             : https://avatars1.githubusercontent.com/u/22096821?s=400&v=4
+  email             : vedanthpadigelwar@gmail.com
+  github            : vedanthpadigelwar
+  linkedin          : vedanthpadigelwar
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
+### Disqus ###
+disqus: your-short-name-disqus                          # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: UA-125748885-1
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

@@ -1,0 +1,16 @@
+- name: Machine Learning
+  percentage: 70
+  color: info
+  
+- name: Deep Learning
+  percentage: 60
+  color: danger
+
+- name: Data Analytics
+  percentage: 70
+  color: dark
+
+- name: Computer Vision
+  percentage: 30
+  color: success
+
