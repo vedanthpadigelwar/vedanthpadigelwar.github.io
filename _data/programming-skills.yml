@@ -2,18 +2,18 @@
   percentage: 80
   color: danger
 
-- name: Java
-  percentage: 50
-  color:
-
-- name: JavaScrpit
-  percentage: 70
-  color: dark
+- name: AWS
+  percentage: 80
+  color: success
 
 - name: SQL
   percentage: 75
   color: success
 
-- name: AWS
-  percentage: 80
-  color: success
+- name: JavaScrpit
+  percentage: 70
+  color: dark
+
+- name: Java
+  percentage: 50
+  color:
