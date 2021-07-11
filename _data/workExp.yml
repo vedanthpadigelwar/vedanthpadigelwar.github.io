@@ -1,13 +1,42 @@
+- title: Machine Learning Engineer - Remote, Omdena (New York, United States)
+  from: May 2021
+  to: Jul 2021
+  points:
+    - Worked on understanding problem statements and developing models for goFintel- NEXT Generation platform. Under the framework of the UN Office of Counter Terrorism “UNOCT-UNCCT Global coordinated programme on detecting, preventing and countering the financing of terrorism”
+    - As a team leader made sure to work towards the business goals by devising a ML pipeline for the project to handling imbalanced data with SMOTE or tuning ‘scale_pos_weight’ parameter, Performed EDA to extract important insights  to correlate data from financial, criminal activities, and other records to identify and counter the financing of terrorism.
+    - Developed models to predict a suspicious transaction using XGBoost and achieved F1 score of 0.875 and fuzzy c-means model to understand unlabeled data.
+
+- title: Software Developer, Mehta Heino Industry (Finland)
+  from: Oct 2020
+  to: Mar 2021
+  points:
+    - Designed and developed a user-friendly portal using VUE JS to control 3D-printers with Gcode files which can help customers to improve revenue by 10% .
+    - Planned a 1 year timeline of projects for the software division. Lead project meetings with the CEO, CTO, and customers to understand customer requirements and convert them into project deliverables.
+    - Built the interface from scratch using Vuetify and handled printer data communication between open-sourced RepRap firmware and the front end using Vuex to handle state management, props and eventbus for variable updation. Enhanced printer data retention functionality by creating a local database to track user print logs
+
+- title: Program Analyst Trainee, Cognizant	(Chennai)
+  from: Jul 2020
+  to: Oct 2020
+  points:
+    - I received training on full-stack development using  HTML, CSS, JS, C#, .NET technologies with MVC architecture.
+
+- title: Research Internship - Remote, MIRAASH Engineering & Technology (New Delhi)
+  from: Jul 2020
+  to: Aug 2020
+  points:
+    - We have developed a cloud kitchen safety classifier using computer vision. It helps to classify a safe wash from a regular wash and warns and guides unsafe washes to a complete safety wash.
+    - We developed a model to classify a safe wash using transfer learning, PyTorch, and various standard models Inception V3, ResNet, VGG, ALexNet, and achieved an accuracy of 89%.
+
 - title: Researcher, Aalto University (Finland)
   from: March 2020
-  to: May 2020
+  to: Sep 2020
   points:
-    - Collected EEG and fMRI information to model relationships between data for predicting fMRI brain neural activity localization's using EEG field potential data.
-    - Performed pearson correlation and mutual information on data and research over the course of 3 months to test for correlation and documented all findings.
+    - Collected EEG and fMRI information to model relationships between data to predict fMRI brain neural activity localisations using EEG field potential data.
+    - Performed EDA to understand localised data, Extracted Pearson correlation between fMRI image data and time-series EEG data based on brain location into α, β, γ, δ frequency ranges.
 
-- title: Intern, Lokahitam Techno Solutions (Hyderabad)
+- title: Internship, Lokahitam Techno Solutions (Hyderabad)
   from: April 2019
   to: May 2019
   points:
-    - Developed chatbots using cognitive services and google cloud platform.
-    - Extracted data and developed a Database for Autism.
+    - Designed, developed and deployed a google Dialogflow chatbot to help parents of autism-affected children to find useful resources and information with the required cities.
+    - Created a knowledge resource of useful resources available in various cities for Autism by scraping websites. Planned and built Intenets, Entities and a flow of chatbots support conversations for sharing relevant information and are deployed with Telegram and Messenger.

@@ -11,5 +11,5 @@
   color: dark
 
 - name: Computer Vision
-  percentage: 50
+  percentage: 60
   color: success
