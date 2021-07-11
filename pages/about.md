@@ -5,16 +5,14 @@ permalink: /about/
 weight: 1
 ---
 
-# **About Me**
+# **SUMMARY**
 
 <!-- Hi I am **{{ site.author.name }}** :wave:,<br> -->
 
-- As an international student at Aalto University in Finland, I understood the benefits and challenges of working within a culturally diverse project group.
--  Received Amrita Nidhi scholarship of 25% for bachelor’s.
-- Eager to support in a development-friendly environment  and grow along with the organization through value-added contribution by building impeccable and customer valued products.
-- Adaptable and transformational leader with an ability to demonstrate exceptional organisational skills and making critical decisions during challenging
+Motivated Machine Learning Engineer with an in-depth knowledge of designing, developing and deploying models using python, keras, Tensorflow, Pytorch, Docker and optimizing algorithms for the best performance possible. Researched and tested new technologies to support the growth of the business and Collaborated with key project stakeholders to ensure that essential goals were met. AWS Certified Machine Learning Specialist with model optimisation knowledge and also Production deployment methodologies
 
-{% include elements/button.html link="/documents/FormalResume/main.pdf" text="Download my Resume" style="outline-dark" size="lg" %}
+{% include elements/button.html link="/documents/FormalResume/vedanthpadigelwar.docx" text="Download my Resume" style="outline-dark" size="lg" %}
+
 <!-- {% include elements/button.html link="/documents/resume.pdf" text="Download my Fun Resume" style="primary" size="lg" %} -->
 
 <div class="row">

@@ -3,11 +3,11 @@
   color: danger
 
 - name: Java
-  percentage: 60
+  percentage: 50
   color:
 
-- name: Artificial Neural Networks
-  percentage: 60
+- name: JavaScrpit
+  percentage: 70
   color: dark
 
 - name: SQL
@@ -15,6 +15,5 @@
   color: success
 
 - name: AWS
-  percentage: 60
+  percentage: 80
   color: success
-
